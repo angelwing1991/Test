@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-6.14.2.dtd" >   
+<suite name="Default Suite">
+    <test name="TankLearn3">
+        <classes>
+            <class name="TankLearn3.Learn.SimpleTest1" />
+            <class name="TankLearn3.Learn.SimpleTest2" />
+            <class name="TankLearn2.Learn.SimpleTest3" />
+        </classes>
+    </test>
+</suite>
